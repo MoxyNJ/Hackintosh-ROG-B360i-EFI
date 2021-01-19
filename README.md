@@ -5,21 +5,21 @@ Hackintosh, ROG-B360i, i5-9600K, Radeon RX 5700, EFI
 
 ### 基本配置
 
-| 硬   件 | 型   号                                                   |
-| :------ | --------------------------------------------------------- |
-| 主   板 | ROG STRIX B360-I GAMING                                   |
-| CPU     | Intel i5-9600K                                            |
-| 内   存 | KLEVV 16GB 2666 MHz DDR4  x 2                             |
-| 硬盘 1  | WD SN750-500G NVMe「Win 10」                              |
-| 硬盘 2  | WD SN750-250G NVMe「MacOS」                               |
-| 硬盘 3  | TOSHIBA P300 3T「数据」                                   |
-| 网   卡 | Broadcom BCM94360CS2 NGFF「主板拆下原装网卡，更换该网卡」 |
-| 电   源 | Corsair SF600 PLATINUM                                    |
-| 显卡 1  | AMD Radeon RX 5700 8G                                     |
-| 显卡 2  | Intel UHD Graphics 630                                    |
-| 机   箱 | SGPC K77                                                  |
-| 散   热 | Thermalright AK120 mini                                   |
-| 显示器  | LG 27UL550 -W 4K                                          |
+| 硬   件 | 型   号                       |
+| :------ | ----------------------------- |
+| 主   板 | ROG STRIX B360-I GAMING       |
+| CPU     | Intel i5-9600K                |
+| 内   存 | KLEVV 16GB 2666 MHz DDR4  x 2 |
+| 硬盘 1  | WD SN750-500G NVMe「Win 10」  |
+| 硬盘 2  | WD SN750-250G NVMe「MacOS」   |
+| 硬盘 3  | TOSHIBA P300 3T「数据」       |
+| 网   卡 | Broadcom BCM94360CS2 NGFF     |
+| 电   源 | Corsair SF600 PLATINUM        |
+| 显卡 1  | AMD Radeon RX 5700 8G         |
+| 显卡 2  | Intel UHD Graphics 630        |
+| 机   箱 | SGPC K77                      |
+| 散   热 | Thermalright AK120 mini       |
+| 显示器  | LG 27UL550 -W 4K              |
 
 
 
